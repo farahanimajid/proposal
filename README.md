@@ -26,9 +26,10 @@ The limited nature of our shared resources drives the need for assistance to eff
 
 
 ## Data:
-Water data
-http://www.oregon.gov/owrd/Pages/maps/index.aspx
 
+1. http://www.oregon.gov/owrd/Pages/maps/index.aspx
+2. https://www.nrcs.usda.gov/wps/portal/nrcs/main/or/technical/dma/gis/
+3. https://water.usgs.gov/maps.html
 
 ## Interface Design:
 #### project name:
@@ -39,7 +40,7 @@ http://soilconsweb.ariesgeo.com/index.php?lang=inglese
 #
 ![SoilConsWeb](img/2.jpeg)
 #
-2. **WRESTORE**WRESTORE is a web-based, user-friendly, interactive, transparent, and participatory decision
+2. **WRESTORE** is a web-based, user-friendly, interactive, transparent, and participatory decision
  support system for helping land owners, government agencies, policy makers, planners, and other stakeholders
   design a distributed system of conservation practices in their watersheds.
 http://wrestore.iupui.edu/
