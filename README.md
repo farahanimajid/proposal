@@ -37,14 +37,14 @@ The Project aims to develope, test and implement a tool to support the decisions
  and landscapes conservation issues (Spatial-DSS)
 http://soilconsweb.ariesgeo.com/index.php?lang=inglese
 #
-![SoilConsWeb](img/2.jpg)
+![SoilConsWeb](img/2.jpeg)
 #
 2. **WRESTORE**WRESTORE is a web-based, user-friendly, interactive, transparent, and participatory decision
  support system for helping land owners, government agencies, policy makers, planners, and other stakeholders
   design a distributed system of conservation practices in their watersheds.
 http://wrestore.iupui.edu/
 #
-![WRESTORE](img/1.jpg)
+![WRESTORE](img/1.jpeg)
 #
 
 
